@@ -1,5 +1,4 @@
-## 👋 🌍 
-##### where every programmer starts ......
+## 👋 🌍  (where every programmer starts ......)
 
 - 🔭 I’m currently working on React.js, Node.js, Docker , AWS , Javascript
 - 🌱 I’m currently learning Golang
