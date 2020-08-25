@@ -2,6 +2,6 @@
 
 - 🔭 I’m currently working on React.js, Node.js, Docker , AWS , Javascript
 - 🌱 I’m currently learning Golang
-- 💬 Ask me about indian movies, music & cartoon.
+- 💬 Ask me about indian movies, music,basketball,fitness & cartoon.
 - 📫 How to reach me: https://www.linkedin.com/in/sai-krishna-v-59b529a5
 - ⚡ Fun fact: It's never too late to learn to code
